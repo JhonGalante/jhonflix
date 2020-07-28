@@ -11,7 +11,7 @@ function Menu() {
             </a>
 
             <Button as="a" className="ButtonLink" href="/">
-                Novo Video
+                New Video
             </Button>
         </nav>
     )
